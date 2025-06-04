@@ -1,8 +1,8 @@
-// import ExSmaple from "./ex";
+import ExSmaple from "./ex";
 
 function App() {
-  // return <ExSmaple /> 
-  return <p>hi</p>
+  return <ExSmaple /> 
+  // return <p>hi</p>
 }
 
 export default App;
